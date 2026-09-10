@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about making a recipe showcasing page. It will contain links lead to different websites. Some required skills are working with headings, paragraph, list, links and images.
